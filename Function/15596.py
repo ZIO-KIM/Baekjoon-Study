@@ -1,3 +1,3 @@
 def solve(a):
     ans = sum(a)
-    return an
+    return ans
