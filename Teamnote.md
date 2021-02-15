@@ -27,4 +27,5 @@ vals
 sort_index = numpy.argsort(vals)
 sort_index
 >>> array([2, 0, 1, 3, 4])
-```
+``` 
+
