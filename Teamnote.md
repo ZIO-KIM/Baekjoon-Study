@@ -27,5 +27,23 @@ vals
 sort_index = numpy.argsort(vals)
 sort_index
 >>> array([2, 0, 1, 3, 4])
+```   
+### 문자열에서 특정 문자 제거하기  
+> 만약 "google" 에서 "oo" 를 제거하고 싶다면  
+```
+str1 = 'google'
+str1 = str1.replace("oo", "")
+str1
 ``` 
-
+```
+>>> ggle
+```
+> 만약 "google" 에서 "oo" 를 "kk" 로 replace 하고 싶다면  
+```
+str1 = 'google'
+str1 = str1.replace("oo", "kk")
+str1
+``` 
+```
+>>> gkkgle
+```
