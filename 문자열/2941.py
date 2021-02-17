@@ -1,4 +1,15 @@
-# 수정중
+# 출처 - https://hongku.tistory.com/255
+lst = ['c=', 'c-', 'dz=', 'd-', 'lj', 'nj', 's=', 'z=']
+str1 = input()
+
+for t in lst: 
+    str1 = str1.replace(t, '*')
+
+print(len(str1))
+
+
+# 이하 틀린코드  
+# 더 공부하자 ..
 
 str1 = str(input())
 count = 0
