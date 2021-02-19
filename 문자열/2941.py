@@ -8,7 +8,7 @@ for t in lst:
 print(len(str1))
 
 
-# 이하 틀린코드  
+# 이하 틀린코드    
 # 더 공부하자 ..
 
 str1 = str(input())
