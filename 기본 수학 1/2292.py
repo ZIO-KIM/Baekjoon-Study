@@ -7,3 +7,4 @@ remainder = N % 6
 
 
 
+
