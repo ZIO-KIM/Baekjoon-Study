@@ -21,6 +21,6 @@ while V - (length * day) > A:
 
 day += 1 
 
-print(day)
+print(day)  
 '''
 
